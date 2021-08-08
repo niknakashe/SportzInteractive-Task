@@ -1,0 +1,22 @@
+.addSection .addFormMain .title {
+  text-align: center;
+}
+.addSection {
+  margin-top: 50px;
+}
+.submitBtn {
+  text-align: center;
+  margin-top: 20px;
+}
+.form-group {
+  margin-top: 10px;
+}
+.uploadBtn {
+  margin-top: 10px;
+}
+.viewSection {
+  margin-top: 25px;
+}
+.viewSection .viewMain .title {
+  text-align: center;
+}
